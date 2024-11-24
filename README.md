@@ -1,10 +1,9 @@
 ### MathonGo Sample Task Backend Development README
 * [Postman Documentation Link](https://docs.google.com/document/d/1RZa4Wll3MlXmc75gKgp79sEs3tYkj7Vz0cmi-8ZbGC0/edit?usp=sharing) For running all the routes.
-* Live Project [Link](https://mathongo-internshipproject.onrender.com) Deployed using Render as it will provide write access for the files.
 
 ### Steps for running the Project
 
-* Clone this Project using this [link](https://github.com/GurudeepRahul/MathonGo_InternshipProject.git).
+* Clone this Project using this [link](https://github.com/sushmitha030/Data-Upload-and-Email-Notification-System.git).
 * Run `npm install` to install all the dependencies.
 * Make an .env file
 * Add the following fields into the .env file PORT(Port for running of server), MONGO_URL(URL for the MONGO_DB), EMAIL_ID(Email Id to send emails to the users), PASSWORD(Password for the email), SMTP_HOST(smtp.gmail.com)
